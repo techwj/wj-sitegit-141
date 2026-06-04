@@ -1,0 +1,59 @@
+{
+  "siteId": "sports-gear-storage",
+  "generatedAt": "2026-06-04T11:35:04.241919",
+  "categories": [
+    "beginner-sports-gear-storage",
+    "advanced-sports-gear-storage",
+    "tips-sports-gear-storage",
+    "history-sports-gear-storage",
+    "trending-sports-gear-storage",
+    "tutorials-sports-gear-storage"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-sports-gear-storage",
+      "category_name": "Beginner Sports Gear Storage"
+    },
+    {
+      "category_slug": "advanced-sports-gear-storage",
+      "category_name": "Advanced Sports Gear Storage"
+    },
+    {
+      "category_slug": "tips-sports-gear-storage",
+      "category_name": "Sports Gear Storage Tips"
+    },
+    {
+      "category_slug": "history-sports-gear-storage",
+      "category_name": "Sports Gear Storage History"
+    },
+    {
+      "category_slug": "trending-sports-gear-storage",
+      "category_name": "Trending Sports Gear Storage"
+    },
+    {
+      "category_slug": "tutorials-sports-gear-storage",
+      "category_name": "Sports Gear Storage Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "sports-gear-storage",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Sports Gear Storage Central",
+    "articles_per_row": 2
+  }
+}
